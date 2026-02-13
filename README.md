@@ -7,7 +7,7 @@ A lightweight, socket-based port discovery tool designed for network security au
 - **Service Mapping:** Automatically identifies common services (SSH, FTP, HTTP, etc.).
 - **User-Friendly:** Clean terminal output with timestamps.
 ## Disclaimer !!!
-**This tool is for educational purposes only. Do not use it on systems you do not own or have explicit permission to test.
+This tool is for educational purposes only. Do not use it on systems you do not own or have explicit permission to test.
 ## 🛠️ Usage
 1. Clone the repo:
    ```bash
